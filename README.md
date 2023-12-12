@@ -5,7 +5,7 @@ ADA allows breakthrough performance when training GANs on small amounts of data.
 
 We test the efficacy of these synthetic samples by mixing them into the training process of a CNN, where we classify normal versus cancerous CT-scans. We tested benchmark performance on a model with only the original data and compared it to a model trained on an augmented mixed dataset. We observed accuracy improvements on the test set through the added use of GAN-generated synthetic samples in the CNN training.
 
-For more information, please refer to the following article on [Medium]().
+For more information, please refer to the following article on [Medium](https://medium.com/@ianstebbs/aee55ef99c5b).
 
 
 # Convolutional Neural Network for Lungs Classification
